@@ -1,16 +1,16 @@
 
 
 module.exports = {
-  TOKEN: "",
-  language: "en",
-  ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  TOKEN: "OTAxNDg0MzkwNDYxMzY2Mjcy.GauMQN.S1FNzTomIi9Or9yAN4od6Z5P07W7WUaUc7fnW0",
+  language: "ko",
+  ownerID: ["275592855567728661", ""], 
+  mongodbUri : "mongodb+srv://LimeJerry:*Wlstjdals09@discordbot.whl16.mongodb.net/?retryWrites=true&w=majority",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
+  activityName: "/help", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
